@@ -2,7 +2,7 @@
 title = "Quantum: Beyond Classical"
 description = "Exploring the quantum world."
 date = 2025-05-10
-draft = true
+draft = false
 
 [taxonomies]
 categories = ["technical"]
@@ -25,4 +25,12 @@ If you add the word *quantum* to anything, it instantly becomes cool.
 
 Or so I thought before trying to figure it out.
 
+{{ figure(src="/img/quantum/scat.svg", alt="mamba block", caption="The Mamba Block") }}
 
+{{ figure(src="/img/quantum/entanglement.svg", alt="mamba block", caption="The Mamba Block") }}
+
+{{ figure(src="/img/quantum/superposition.gif", alt="mamba block", caption="The Mamba Block") }}
+
+{{ figure(src="/img/quantum/qmechanics.svg", alt="mamba block", caption="The Mamba Block") }}
+
+{{ figure(src="/img/quantum/collision.svg", alt="mamba block", caption="The Mamba Block") }}

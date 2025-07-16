@@ -24,7 +24,7 @@ reaction = false
 
 ![the night sky](/img/chapter-one/img1.avif)
 
-Welcome again!
+Welcome.
 
 I've always wanted to start my own blog, and thanks to the support of some of my favorite people, I finally have. This site isn’t just about posts, it's about the (*occasional*) randomness of my life.  
 

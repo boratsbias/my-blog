@@ -40,6 +40,6 @@ From a computational standpoint, Deep Mamba is highly efficient. Its design allo
 
 One of the most exciting developments in this space is [Jamba](https://arxiv.org/html/2403.19887v1), a hybrid model from AI21 Labs that combines transformer and Mamba-style layers. With 52 billion parameters and a 256,000-token context window, Jamba stands as the largest and most powerful Mamba-variant to date.
 
-But that's a story for another day.
+But that's a topic for another day.
 
 See you soon.

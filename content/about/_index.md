@@ -19,11 +19,11 @@ reaction = false
 
 Hi, I am Anubrat 👋
 
-I’m a junior computer science student.
+I’m a senior computer science student.
 
 Often inspired by every second person on the road, I (pretend to) explore stuff that seems cool.
 
-Though nowhere near a pro, I like math and computer science, currently working on deep neural nets, which seem fun.
+Though nowhere near a pro, I like math and computer science, currently working on LLMOps.
 
 Got suggestions? Keep them. (Just kidding...) Any memes? Send them over [email](mailto:anubratbora25@gmail.com). 
 
