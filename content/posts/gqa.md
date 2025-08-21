@@ -1,7 +1,7 @@
 +++
-title = "PINNs Explained"
-description = "Physics meets Neural Nets"
-date = 2025-06-12
+title = "Grouped Query Attention"
+description = "Learn how GQA works!"
+date = 2025-08-21
 draft = true
 
 [taxonomies]
@@ -10,13 +10,15 @@ tags = ["ai"]
 
 [extra]
 lang = "en"
-toc = false
+toc = true
 comment = false
 copy = true
 outdate_alert = false
 outdate_alert_days = 120
-math = true
-mermaid = true
+math = false
+mermaid = false
 featured = false
 reaction = false
 +++
+
+More on transformers? GQA explored!
