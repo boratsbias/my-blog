@@ -54,6 +54,6 @@ img = "/movies/spirited-away.webp"
 
 [[collection]]
 type = "art_simple"
-title = "Thw Wild Robot"
+title = "The Wild Robot"
 link = "https://www.imdb.com/title/tt29623480/"
 img = "/movies/the-wild-robot.webp"
