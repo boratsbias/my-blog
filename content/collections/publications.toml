@@ -1,14 +1,34 @@
+[[collection]]
+type = "card"
+title = "Ontology Synthesis Using Semi-Automatic Semantic AI, DL & RL"
+subtitle = "Dr. Gerard Deepak, Anubrat Bora, MS Roopa, KR Venugopal"
+link = "https://ieeexplore.ieee.org/abstract/document/11370141"
+content = "OSSS is a Web 3.0 framework for automatic ontology generation in environmental journalism. It integrates Bi-LSTM and AdaBoost classification, Pearson correlation–based feature federation, Google Knowledge Graph API and YAGO enrichment, Morista’s Overlap Index for semantic relevance, and Imperialist Competitive Algorithm optimization."
+
+[[collection]]
+type = "card"
+title = "MDA GenUro: Medical Document Annotation for Genito-Urinary & Urological Pathology"
+subtitle = "Anubrat Bora, Dr. Gerard Deepak and Mohammed Salman SA"
+link = "https://dl.acm.org/doi/full/10.1145/3777867.3777875"
+content = "This Web 3.0 medical annotation framework targets genito-urinary and urological pathology documents. It uses knowledge encompassment with TF-IDF, generative AI via YaLM-100B for text and caption extraction, and high-density metadata generation through OpenCalais and structural-content feedback integration."
 
 [[collection]]
 type = "card"
 title = "VRSIL: Video Recommendation with Semantic Intelligence"
 subtitle = "Anubrat Bora and Dr. Gerard Deepak"
 link = "https://link.springer.com/chapter/10.1007/978-3-031-96473-2_2"
-content = "This research presents a strategic model for video recommendation in the Web 3.0 era, integrating hybrid machine intelligence, generative AI, and semantic artificial intelligence. It dynamically generates ontologies from query words to extract features based on similarity and employs a logistic regression classifier for dataset categorization. By incorporating semantic reasoning with Normalized Pointwise Mutual Information (NPMI) and optimizing recommendations through the Elephant Optimization algorithm, it enhances accuracy, diversity, and relevance in video recommendation systems."
+content = "This Web 3.0 video recommendation framework integrates hybrid machine intelligence, generative AI, and semantic AI. It generates ontologies, selects linked-similarity features, classifies via logistic regression, applies NPMI thresholds, and optimizes using the Jian-Konrad Index and Elephant Optimization algorithm for relevant, diverse recommendations."
+
+[[collection]]
+type = "card"
+title = "KCMTI: Knowledge-Centric Microblog Tagging"
+subtitle = "Anubrat Bora and Dr. Gerard Deepak"
+link = "https://link.springer.com/chapter/10.1007/978-981-95-2901-8_30"
+content = "This paper proposes a Web 3.0 microblog annotation framework integrating semantic intelligence with deep learning models. It leverages domain-specific knowledge stacks to enrich metadata, applies RNN for inter-class classification, and refines top categories using XGBoost."
 
 [[collection]]
 type = "card"
 title = "SSCKC: Semantics-Driven Crime Data Classification Framework"
 subtitle = "Anubrat Bora and Dr. Gerard Deepak"
 link = "https://ceur-ws.org/Vol-3940/AISD-2024_Paper_7.pdf"
-content = "This research presents a strategic framework for classifying criminology and news datasets, enhancing their relevance for expert systems. It integrates LLaMA with XGBoost for efficient categorization and enrichment. Using standard news APIs and the Cricket Algorithm with a diversity index, it optimizes precision, accuracy, and F1 score in crime classification."
+content = "This research presents a strategic framework for classifying criminology and news datasets, enhancing their relevance for expert systems. It integrates LLaMA with XGBoost for efficient categorization and enrichment and uses standard news APIs and the Cricket Algorithm with a diversity index for further optimizations."

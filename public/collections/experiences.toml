@@ -2,18 +2,18 @@
 [[collection]]
 type = "card"
 title = "Barsys"
-subtitle = "AI ML Engineer Intern"
+subtitle = "AI Engineer Intern"
 date = "Jun. 2025 - Present"
 link = "https://barsys.com/"
 icon = "https://cdn.brandfetch.io/idjl1OUzut/w/506/h/578/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1750883526787"
-content = "Contributed vector search functionality for recipe discovery and developed home card UI management system for an AI cocktail assistant. Built FastAPI endpoints and SQLAlchemy models for search operations and dynamic content delivery with image caching."
+content = "Developed an agent-first, multi-turn FastAPI backend for cocktail intelligence supporting web and mobile. Implemented structured agents for intent classification, recipe generation, device control, vision-based ingredient recognition, and action cards using typed Pydantic schemas and JSON APIs. Designed persona-aware routing (emotion, occasion, readiness) and session-based context handling. Optimized latency, quality, and cost through per-agent model selection and fallback strategies. Contributed to structured responses, debugging tools, and system-level enhancements, with roadmap features including persistent memory, tool support, vector databases, and production-ready deployment improvements."
 featured = false  #optional
 
 
 [[collection]]
 type = "card"
 title = "Nexus Info"
-subtitle = "Machine Learning Intern"
+subtitle = "AI Engineer Intern"
 date = "Aug. 2024 - Oct. 2024"
 link = "https://www.nexusinfo.in/"
 icon = "https://media.licdn.com/dms/image/v2/D560BAQHbJ98jAoTBWw/company-logo_200_200/company-logo_200_200/0/1705843409324/nexus_software_pvt_ltd_logo?e=2147483647&v=beta&t=WYwmWoTbfn-86oo0zcuuG9Kq3Xzh9CANzWUCFA_4qXA"
