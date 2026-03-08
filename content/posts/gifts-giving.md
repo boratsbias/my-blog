@@ -37,7 +37,7 @@ Love doing what I do (though very little). Ah, getting to learn, yes...
 
 I do love the feeling of hearing something technical, maybe a new project, it sounds so cool. Being the smallest name on that contributor's list, it still amazes me. 
 
-Anyways, I have stopped the bulking & I am officially FAT now. Difficult to manage everything, I guess.
+Anyway, I have stopped bulking, and I am officially FAT now. I guess it’s difficult to manage everything at once.
 
 {{ figure(src="/img/gifts-giving/b360.avif", alt="the 360 machine", caption="Vibe coding ROCKS (some days)") }}
 
