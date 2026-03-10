@@ -25,7 +25,7 @@ Long time no see!
 
 Tons of apologies for not being regular, but things have become somewhat *chaotic* and *uncertain* in my life. Well, I have landed myself some "*industry exposure*", if you will...
 
-Joined the office cult? Not really, it's very chill around here. There's a constant hustle of flying between Delhi, Bengaluru & home. It gets tiring.
+Joined the office cult? Not really. It’s pretty chill around here. But there’s a constant hustle of flying between Delhi, Bengaluru, and home. It does get tiring.
 
 It's still an internship. Rat race? Not really. Hopefully, more good things await. This is my [current feeling](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fhaving-a-job-vs-not-having-a-job-v0-ttay3zv675gf1.png%3Fwidth%3D1080%26format%3Dpng%26auto%3Dwebp%26s%3D8b342d1270dd4b4a7f7aa80d4e8c321a6157895a).
 
