@@ -1,0 +1,20 @@
+[[collection]]
+type = "card"
+title = "Transformer Architecture: Based on ”Attention Is All You Need”"
+link = "https://arxiv.org/abs/1706.03762"
+content = "Built a Transformer from scratch, inspired by Attention Is All You Need, showcasing expertise in neural networks. Trained with PyTorch on a custom dataset, optimizing hyperparameters for a 15% BLEU boost. Analyzed performance using attention heatmaps, loss curves, and evaluation metrics."
+tags = ["transformers", "genai", "pytorch"]
+
+[[collection]]
+type = "card"
+title = "Fine-Tuning Llama for SQL Query Generation"
+link = "https://colab.research.google.com/drive/1sN4-0RMBc4qJlz7Xla7g5SdSj1EOVg9d"
+content = "Fine-tuned Llama on English-to-SQL queries using LoRA and efficient fine-tuning, cutting inference errors by 25%. Built a preprocessing pipeline to clean, tokenize, and balance data, boosting training efficiency and SQL accuracy."
+tags = ["llm", "finetuning", "sql"]
+
+[[collection]]
+type = "card"
+title = "RAG Workflow with LangChain, ChromaDB & Open-Source LLM"
+link = "https://colab.research.google.com/drive/1sN4-0RMBc4qJlz7Xla7g5SdSj1EOVg9d"
+content = "Built a Retrieval-Augmented Generation (RAG) pipeline using LangChain, ChromaDB, and an open-source LLM. The key achievements include creating a context-aware text generation system, improving query latency and response relevance by 10% through ChromaDB indexing, and ensuring production readiness by utilizing comprehensive evaluation frameworks."
+tags = ["llm", "rag", "genai"]
