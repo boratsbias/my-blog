@@ -30,3 +30,4 @@ date_format = "%b %-d, %Y"
 After years of procrastination, poor decisions, and some hourly dramatic sighs, I’ve finally taken the leap.  
 
 My goal? To bring my ideas to life and (hopefully) make sense of my musings.
+
