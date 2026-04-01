@@ -23,7 +23,7 @@ I’m a senior computer science student.
 
 Often inspired by every second person on the road, I (pretend to) explore stuff that seems cool.
 
-Though nowhere near a pro, I like math and computer science. Do checkout my <a href="https://github.com/boratsbias/Notes" target="_blank" rel="noopener">notes</a>!
+Though nowhere near a pro, I like math and computer science. Do checkout my <a href="https://boratsbias.github.io/notes/" target="_blank" rel="noopener">notes</a>!
 
 Got suggestions? Keep them. (Just kidding...) Any memes? Send them over [email](mailto:anubratbora25@gmail.com). 
 
