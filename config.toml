@@ -37,7 +37,8 @@ anchors = "on"
 
 sections = [
    { name = "posts", path = "/posts", is_external = false },
-   { name = "collections", path = "/collections", is_external = false },
+   { name = "work", path = "/work", is_external = false },
+   { name = "stuff", path = "/stuff", is_external = false },
    { name = "about", path = "/about", is_external = false }
 ]
 blog_section_path = "/posts"
