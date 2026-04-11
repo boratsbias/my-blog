@@ -8,6 +8,10 @@ title = "Work"
 subtitle = "Things I've built, written, and been part of."
 +++
 
+# Resume
+
+[Checkout my resume ↗](/anubrat-bora-resume.pdf)
+
 # Projects
 
 {{ collection(file="projects.toml") }}
