@@ -31,3 +31,5 @@ After years of procrastination, poor decisions, and some hourly dramatic sighs, 
 
 My goal? To bring my ideas to life and (hopefully) make sense of my musings.
 
+P.S. I also keep [notes](https://notes.anubratbora.com/).
+
