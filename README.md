@@ -3,7 +3,7 @@
 A small corner of the internet where I write about ideas, tech, research, and occasional life updates.  
 Built with **[Zola](https://www.getzola.org/)** and inspired by the **[Serene theme](https://www.getzola.org/themes/serene/)**.
 
-🔗 **Visit:** https://boratsbias.github.io/my-blog/
+🔗 **Visit:** https://anubratbora.com
 
 ## About
 

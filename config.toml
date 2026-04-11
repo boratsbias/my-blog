@@ -8,7 +8,7 @@ theme = "serene"
 output_dir = "public"
 compile_sass = true
 minify_html = false # Keep this false, as it may cause issues with some styles
-build_search_index = true # Keep this false, search is temporarily unsupported
+build_search_index = false # Search is unsupported by the theme
 generate_feeds = false # Whether to generate a feed file in root, read docs for more info about rss feed
 feed_filenames = ["feed.xml"] # "feed.xml" | "atom.xml" | "rss.xml", read docs for more info
 taxonomies = [{ name = "tags" }]
