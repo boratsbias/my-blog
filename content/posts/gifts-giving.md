@@ -5,7 +5,6 @@ date = 2026-01-04
 draft = false
 
 [taxonomies]
-categories = ["personal"]
 tags = ["internship"]
 
 [extra]

@@ -5,7 +5,6 @@ date = 2024-09-29
 draft = false
 
 [taxonomies]
-categories = ["personal"]
 tags = ["trip"]
 
 [extra]

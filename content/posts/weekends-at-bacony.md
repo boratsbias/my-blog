@@ -5,7 +5,6 @@ date = 2023-10-11
 draft = false
 
 [taxonomies]
-categories = ["personal"]
 tags = ["college"]
 
 [extra]
