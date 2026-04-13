@@ -34,7 +34,7 @@ Post this, I just slept and slept... (why won't I? Had you seen me, you would've
 
 {{ figure(src="/img/weekend-at-balconies/img4.avif", alt="evening sky", caption="I woke up to this view!")}}
 
-And Bangalore being unpredictable, showed its true colors in the form of heavy downpours. Seriously this city's a mess, but what do I say when my relatives ask me about it? Yes. "*The weather's awesome!*", [Rahul Subramanian](https://www.youtube.com/watch?v=PVrtI6YOe6Y&ab_channel=RandomChikibum), I feel you.
+And Bangalore being unpredictable, showed its true colors in the form of heavy downpours. Seriously, this city's a mess, but what do I say when my relatives ask me about it? Yes. "*The weather's awesome!*", [Rahul Subramanian](https://www.youtube.com/watch?v=PVrtI6YOe6Y&ab_channel=RandomChikibum), I feel you.
 
 As the rain stopped and post dinner, the hostel *united*, an exhilarating experience.
 
