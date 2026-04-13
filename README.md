@@ -1,4 +1,4 @@
-# anubratbora.com
+# [anubratbora.com](https://anubratbora.com)
 
 My personal site. Posts about life, college, travel, and whatever else is on my mind.
 
