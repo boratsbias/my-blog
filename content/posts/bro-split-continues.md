@@ -24,7 +24,7 @@ I have gained, not memories, not grades, but weight. Fat, you say? I say it's bu
 
 {{ figure(src="/img/bro-split-continues/img1.avif", alt="happy meal", caption="How can you NOT bulk when this is around?") }}
 
-It's been a long time. Well, it's more like an update. Basically, college has been the same, and the pressure of getting an internship is really catching up to me. The countless happy posts on LinkedIn aren't helping either. And lately, sending out applications on (almost) all job platforms feels like a waste of time.
+It's been a long time. Well, it's more like an update. Basically, college has been the same, and the pressure of getting an internship is really catching up with me. The countless happy posts on LinkedIn aren't helping either. And lately, sending out applications on (almost) all job platforms feels like a waste of time.
 
 {{ figure(src="/img/bro-split-continues/img2.avif", alt="two birds outside my window", caption="They came to check on how the placement prep was going.") }}
 

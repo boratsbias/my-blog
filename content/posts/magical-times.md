@@ -20,7 +20,7 @@ featured = false
 reaction = false
 +++
 
-This is about the end of my third semester, which marked the end of weeks of late-night study sessions, stress, and hard work (*also, ordering late-night food*). I had Object Oriented Programming as my last exam. And man, I hated Java! I felt a  sense of genuine relief and accomplishment after a long time. 
+This is about the end of my third semester, which marked the end of weeks of late-night study sessions, stress, and hard work (*also, ordering late-night food*). I had Object Oriented Programming as my last exam. And man, I hated Java! I felt a sense of genuine relief and accomplishment after a long time. 
 
 {{ figure(src="/img/where-magic-happened/img1.avif", alt="terminal 2, bangalore", caption="Is the T2 really beautiful, or am I that sleep-deprived?") }}
 
@@ -32,7 +32,7 @@ The next night, dinner at home felt great after so long. I was finally what I sh
 
 Gym is a form of escapism, and rightly so, I proved it during the holidays.
 
-The next day, guests came over. Well (don't tell them), but usually, I'm not very welcoming. This time, tough, I felt ~~good~~ fine. And I believe it was because of this.
+The next day, guests came over. Well (don't tell them), but usually, I'm not very welcoming. This time, though, I felt ~~good~~ fine. And I believe it was because of this.
 
 {{ figure(src="/img/where-magic-happened/img3.avif", alt="barbeque at our home", caption="It's because of that holy spirit that I'm sharing my food.") }}
 

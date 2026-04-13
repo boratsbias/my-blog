@@ -22,7 +22,7 @@ reaction = false
 
 {{ figure(src="/img/life-without-the-laptop/img2.avif", alt="a tasty burger", caption="Life goal: checked!") }}
 
-A family trip was long overdue. Bags packed! All checked! And so I headed with zeal. Not long after I was stopped at security because of my creatine. I was pissed. But, but... the MESSI BURGER had made up for it.
+A family trip was long overdue. Bags packed! All checked! And so I headed with zeal. Not long after, I was stopped at security because of my creatine. I was pissed. But, but... the MESSI BURGER had made up for it.
 
 {{ figure(src="/img/life-without-the-laptop/img4.avif", alt="view from jaipur fort", caption="Jaipur, we meet again.") }}
 
@@ -35,7 +35,7 @@ After the sightseeing, given my habit of getting bored quickly, we arrived, I or
 
 The trip itself was really *wholesome*, maybe because of the fact that the place we stayed in was really cozy. I'm not crazy to say this, but, the best part I felt about the trip was...
 
-{{ figure(src="/img/life-without-the-laptop/img7.avif", alt="tasty cheesecake", caption="This. The cheat meal no. #100") }}
+{{ figure(src="/img/life-without-the-laptop/img7.avif", alt="tasty cheesecake", caption="The cheat meal #100") }}
 
 Though, I realized, life could be *fun* without the laptop as well. And it's worth spending time with people, also ordering food online, listening to music online, and booking tickets online as well.
 
@@ -47,7 +47,7 @@ To end it all, we bought stuff, lots of stuff! (Bought too many souvenirs, just 
 
 Time to return to the hostel. T2 Bangalore at night feels like a monument of its own.
 
-Maybe, just maybe, vacations are a good thing until it's *forced*. Can't wait for the next one! 
+Maybe, just maybe, vacations are a good thing until they're *forced*. Can't wait for the next one! 
 
 See you soon.
 

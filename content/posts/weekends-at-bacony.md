@@ -24,17 +24,17 @@ As always, I’ve been enjoying the weekends, thanks to the amazing group of fri
 
 {{ figure(src="/img/weekend-at-balconies/img1.avif", alt="sky with rainbow", caption="This is where the magic happens! (And fights too.)") }}
 
-It kicked off with me being excited and waking up on my own (trust me when I say this, it doesn’t usually happen by itself), I believe it was because of the Champions League final that we had to play. As always, I was the one who had to gather everyone. With promises to myself that it was the *last time* I'd do that, we started playing. After a couple of injuries we wrapped up and headed for mess food, a mediocre breakfast.
+It kicked off with me being excited and waking up on my own (trust me when I say this, it doesn’t usually happen by itself), I believe it was because of the Champions League final that we had to play. As always, I was the one who had to gather everyone. With promises to myself that it was the *last time* I'd do that, we started playing. After a couple of injuries, we wrapped up and headed for mess food, a mediocre breakfast.
 
 {{ figure(src="/img/weekend-at-balconies/img3.avif", alt="my fancy desk setup", caption="My fancy desk setup, thanks to OCD.") }}
 
 See this? I gave my everything to completing my projects and assignments, and so did chatGPT.
 
-Post this, I just slept and slept... (why won't I? Had you seen me, you would've said the same.
+Post this, I just slept and slept... (why won't I? Had you seen me, you would've said the same.)
 
 {{ figure(src="/img/weekend-at-balconies/img4.avif", alt="evening sky", caption="I woke up to this view!")}}
 
-And Bangalore being unpredictable, showed it's true colors in the form of heavy downpours. Seriously this city's a mess, but what do I say when my relatives ask me about it? Yes. "*The weather's awesome!*", [Rahul Subramanian](https://www.youtube.com/watch?v=PVrtI6YOe6Y&ab_channel=RandomChikibum), I feel you.
+And Bangalore being unpredictable, showed its true colors in the form of heavy downpours. Seriously this city's a mess, but what do I say when my relatives ask me about it? Yes. "*The weather's awesome!*", [Rahul Subramanian](https://www.youtube.com/watch?v=PVrtI6YOe6Y&ab_channel=RandomChikibum), I feel you.
 
 As the rain stopped and post dinner, the hostel *united*, an exhilarating experience.
 
