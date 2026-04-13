@@ -15,7 +15,7 @@ bio = "'80s Soft Rock got me 🎵"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/boratsbias" },
     { name = "Twitter", icon = "twitter", url = "https://twitter.com/anubrat25" },
-    { name = "LinkedIn", icon = "linkedin", url = "https://www.linkedin.com/in/anubrat-bora-044ba2187" },
+    { name = "LinkedIn", icon = "linkedin", url = "https://www.linkedin.com/in/anubrat-bora" },
 ]
 
 # Show a few recent posts in home page
