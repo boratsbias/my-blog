@@ -25,8 +25,6 @@ Often inspired by every second person on the road, I (pretend to) explore stuff 
 
 Though nowhere near a pro, I like math and computer science. Do check out my [notes](https://notes.anubratbora.com/)!
 
-Got suggestions? Keep them. (Just kidding...) Any memes? Send them over [email](mailto:anubratbora25@gmail.com). 
-
-Please.
+Got memes? Send them over [email](mailto:anubratbora25@gmail.com). 
 
 ![doodle of reading something interesting](/img/doodles/real-img3v2.avif)
